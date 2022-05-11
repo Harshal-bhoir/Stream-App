@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "do you know this is a descr",
+      "id": 1
+    },
+    {
+      "title": "ADd",
+      "description": "sdasdsadas",
+      "id": 2
+    },
+    {
+      "title": "CS:GO Road to gold",
+      "description": "playing cssss",
+      "id": 3
+    },
+    {
+      "title": "Goti Samaj",
+      "description": "Anomalies found here",
+      "userId": "107868725228982290452",
+      "id": 4
+    }
+  ]
+}
